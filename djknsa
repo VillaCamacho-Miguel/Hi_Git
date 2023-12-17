@@ -1,0 +1,42 @@
+[33mcommit 7f1a108f946771291c00483ebccbeb0315cd3a70[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Merge: 49ca7f3 37e5e1e
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 20:30:10 2023 -0700
+
+    Merge branch 'main' into login
+
+[33mcommit 37e5e1ec32b152999d8bc018824c790e32adfaf9[m[33m ([m[1;32mmain[m[33m)[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 20:27:44 2023 -0700
+
+    modifique print hellogit
+
+[33mcommit 49ca7f38581a7397cede1ab6735d0a94e1230f9d[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 20:23:42 2023 -0700
+
+    Agregado fichero login
+
+[33mcommit e8e1d16e1aaf2b67c049ddecf6c22a5ff069ec24[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 20:17:38 2023 -0700
+
+    agregue el fichero hellogit3
+
+[33mcommit ca88a01fbc0ba3104dead362b043385c66a75a20[m[33m ([m[1;33mtag: class_1[m[33m)[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 20:00:54 2023 -0700
+
+    aniade el gitignore
+
+[33mcommit c49986ef742f7b4f90547404ff1855709a082f34[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 19:51:57 2023 -0700
+
+    Agregue otro fichero
+
+[33mcommit 9adec45508fc4c1c1456e28c8d9f1e354d262803[m
+Author: MiguelVilla <villacamacho87@gmail.com>
+Date:   Sat Dec 16 14:06:32 2023 -0700
+
+    probando el primer commit
